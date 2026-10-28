@@ -1,0 +1,11 @@
+# Compiled object files
+*.o
+
+# Static libraries
+*.a
+
+# Default compiler executable
+a.out
+
+# Local test executable
+program
